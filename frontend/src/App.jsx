@@ -45,11 +45,11 @@ function App() {
       <div className="task-form">
         <input
           type="text"
-          placeholder="Enter task..."
+          placeholder="Enter new task..."
           value={title}
           onChange={(e) => setTitle(e.target.value)}
         />
-        <button onClick={addTask}>Add</button>
+        <button onClick={addTask}>Add Task</button>
       </div>
 
       <ul className="task-list">
@@ -76,7 +76,7 @@ function App() {
                 cursor: "pointer",
               }}
             >
-              Delete
+              Delete 
             </button>
           </li>
         ))}
