@@ -2,7 +2,7 @@ import express from "express";
 import { getTasks, createTask, removeTask } from "../controllers/taskController.js";
 
 const router = express.Router();
-
+//routes
 router.get("/", getTasks);
 router.post("/", createTask);
 router.delete("/:id", removeTask);
