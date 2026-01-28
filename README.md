@@ -122,3 +122,24 @@ Improve full-stack development skills
 
 Atul Tiwari
 GitHub: https://github.com/iamatultiwari
+
+
+🧠 Thought Process
+
+I first broke the problem into smaller parts to understand the core requirements.
+
+Then I planned the structure and data flow before writing code.
+
+I chose a simple and readable approach to avoid unnecessary complexity.
+
+This made debugging and future changes easier.
+
+⚠️ Challenges Faced
+
+Handling edge cases caused unexpected errors during execution.
+
+Some bugs only appeared at runtime and were hard to trace.
+
+I used logging and step-by-step debugging to fix them.
+
+Refactoring helped keep the code clean and organized.
